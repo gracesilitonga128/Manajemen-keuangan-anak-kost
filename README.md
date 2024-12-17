@@ -8,6 +8,7 @@ Sebagai anak kost, seringkali keuangan menjadi tantangan utama. Banyak mahasiswa
 - Pemasukan yang terbatas, seperti uang kiriman bulanan.
 - Pengeluaran tidak terkontrol, seperti jajan berlebihan, biaya makan, dan kebutuhan mendadak.
 - Kurangnya alat bantu praktis untuk mencatat dan mengelola keuangan sehari-hari.
+
 Solusi: 
 - Membantu mencatat pemasukan dan pengeluaran.
 - Memberikan gambaran keuangan sehingga pengguna dapat menghindari keborosan.
